@@ -23,7 +23,7 @@ To get Taktus up and running, you'll need Python 3.8 or higher.
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/your-username/taktus.git](https://github.com/your-username/taktus.git)
+    git clone [https://github.com/smartfactory-arch/taktus.git](https://github.com/smartfactory-arch/taktus.git)
     cd taktus
     ```
 2.  Install the required packages:
