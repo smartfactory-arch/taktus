@@ -33,7 +33,7 @@ To get Taktus up and running, you'll need Python 3.8 or higher.
 
 ### Usage
 
-[Once you have a working prototype, you can add instructions here on how to run the application or an example of how to use the core scheduling functions.]
+WIP
 
 ## Contributing
 
